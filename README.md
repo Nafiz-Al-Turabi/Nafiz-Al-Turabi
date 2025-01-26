@@ -50,6 +50,8 @@ _I am open to new opportunities/contributions._
 
 ![Nafiz-Al-Turabi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-Al-Turabi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nafiz-Al-Turabi&bg_color=00ad3d&color=000000&line=1f1e1f&point=e60000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
